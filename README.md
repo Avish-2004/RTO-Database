@@ -3,11 +3,14 @@ This project is a PostgreSQL-based relational database system designed to manage
 
 ## 📌 Features
 
-- ✅ Vehicle Registration & Management
+- ✅ Vehicle Registration & Management:
+  
   Tracks all vehicle details including registration number, owner info, and fitness validity.
-- ✅ Driving License Management
+- ✅ Driving License Management:
+  
   Manages license issuance, renewal, suspension, and validation processes.
-- ✅ Owner & Applicant Records
+- ✅ Owner & Applicant Records:
+  
   Maintains personal information, contact details, and ownership history.
 - ✅ Normalized schema for minimal redundancy
 - ✅ Functional dependencies and relational modeling
